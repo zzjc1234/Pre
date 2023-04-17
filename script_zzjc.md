@@ -6,10 +6,10 @@ This file includes the script for the presentation
 
 ## MENU
 
-1. Intro
-2. Part1--reinventing the genre
-
----
+- [Pre Script](#pre-script)
+  - [MENU](#menu)
+  - [Intro](#intro)
+  - [Part1 -- Reinventing The Genre](#part1----reinventing-the-genre)
 
 ## Intro
 
@@ -31,7 +31,7 @@ This file includes the script for the presentation
 
 ---
 
-## Part1 -- Reinventing The genre
+## Part1 -- Reinventing The Genre
 
 - Minor Claim
 
@@ -39,6 +39,6 @@ This file includes the script for the presentation
 
 - Argument
 
-  1. In traditional education plot, the protagonist is usually a teacher, facing bad students or students with physical or mental problems. However, in the *Dead Poet Society* the students are 100% good and competent. Most of them come from wealthy and educated famliy, have talent in knowledge. From the angle of general public, they are absolutely good students and loyal sons and there is nothing to do with them. However, Mr Keating is totally different from the traditional teachers of education plot who usually guide students to go back to the normal track, Mr Keating tries to make them become free thinkers. He tells them to seize the day, teaches them that knowledge like engineering and finance are created to make human live while the passion, beauty love are the reason why human live.
+  1. In traditional education plot, for example, *Detachment*, *Good Will Hunting* the protagonist is usually a teacher or a therapist, facing students who have terrible manner, suffer from the famliy conflict or have physical and mental problems. However, in the *Dead Poet Society* the students are 100% good and competent and most of them come from wealthy and educated famliy. From the angle of general public, they are absolutely good students and loyal sons and there is nothing to do with them. However, Mr Keating is totally different from the traditional teachers in education plot who usually guide students to go back to the normal track. He tries to make them become free thinkers and release their inner passioin. He believes that "Human race is filled with passion." The subjects like "medicine, law, business, engineering are noble pursuits and necessary to sustain life." "But poetry, beuaty, romance, love are what we live alive for."
 
-  2. He asks his students to wipe out the lengthy introduction about how to judge a poem and teaches students the rommantic poems.**(NEED TO BE MODIFIED)** He also students to release their inner passion by reading poems while playing football. Under his cultivation, his students set up the Dead Poet Society and tries 
+  2. He asks his students to wipe out the lengthy introduction about how to judge a poem and teaches students the rommantic poems.**(NEED TO BE MODIFIED)** He also teaches students to release their inner passion by reading poems while playing football. Under his cultivation, his students set up the Dead Poet Society and tries 
