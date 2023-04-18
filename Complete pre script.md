@@ -30,7 +30,7 @@ This file includes the script for the presentation
 
 - Thesis and Essay Map
 
-  Today, we are gonna introduce you *Dead Poet Society* -- a master piece in education plot. We strongly recommend you to watch this film becuase it subverts the traditional education plot, reflect the social condition and has wonderful combination of music and scene.
+  Today, we are gonna introduce you *Dead Poet Society* -- a master piece in education plot. We strongly recommend you to watch this film becuase its subversion to the traditional education plot, engaging background music and inspirational themes
 
 ---
 
