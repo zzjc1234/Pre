@@ -50,7 +50,6 @@ This file includes the script for the presentation
 
   To sum up, the *Dead Poet Societ* subverts the traditional education plot with different type of conflict and relationship between teacher and students.
   
-
 ## Part2 -- Engaging Background Music
 
 ### Thesis
@@ -77,8 +76,8 @@ It is a hauntingly beautiful piece that captures the melancholy and despair of t
 
 With the engaging background music, the movie takes us into not only the world of welton Academy, but also the characters' hearts.
 
-
 ## Part3 -- Inspirational Themes
+
 ### Thesis
 
 Dead Poets Society is a movie worth watching because it possesses themes of inspiration and transformative power, meaningful and thought-provoking.
@@ -100,4 +99,6 @@ Another valuable takeaway from watching Dead Poets Society is the celebration of
 Dead Poets Society is a film that will leave you feeling inspired, empowered, and motivated to live life on your own terms. It encourages us to celebrate our individuality, embrace our passions, and find the courage to pursue our dreams.
 
 ## Conclusion
+
 In conclusion, Dead Poet Society is a film that stands the test of time due to its excellent themes and soundtrack. The film explores themes of individualism, self-discovery, and the importance of education, which are just as relevant today as they were when the film was released in 1989. It is clear that the filmmakers ensure that every aspect of the film was crafted with care and attention to detail. Dead Poet Society is a movie that inspires and challenges us, encouraging us to think critically about our own lives and the world around us. It is a must-watch for anyone who appreciates a well-crafted story that speaks to the human experience.
+
