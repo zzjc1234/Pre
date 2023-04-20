@@ -6,11 +6,11 @@ Dead Poets Society is a movie worth watching because it possesses themes of insp
 
 ## Intro & Map
 
-Lady, and gentlemen, are you tired of feeling like you have to fit in and conform to the expectations of others? Do you ever wonder what it would be like to follow your own path and embrace your true self? If so, watch Dead Poets Society, which can help you embark on an unforgettable journey of self-discovery, inspiration, empowerment, and the beauty of poems.
+Ladies, and gentlemen, are you tired of feeling like you have to fit in and conform to the expectations of others? Do you ever wonder what it would be like to follow your own path and embrace your true self? If so, watch Dead Poets Society, which can help you embark on an unforgettable journey of self-discovery, inspiration, empowerment.
 
 ## MMC1
 
-Many of the students are initially hesitant to break free from their preconceived beliefs about themselves and the world around them. However, as the movie progresses, they realize that they are capable of much more than they previously thought. 
+Many of the students are initially hesitant to break free from their reserved     beliefs about themselves and the world around them. However, as the movie progresses, they realize that they are capable of much more than they previously thought. 
 
 ## MMC2
 

@@ -1,6 +1,6 @@
 ## Thesis
 
-Dead Poet Society is worth watching because the poems quoted in this movie are both emotionally touching and intellectually inspiring.
+Dead Poet Society is worth watching because the poems quoted in this movie are both emotionally touching and intellectually inspiring./////ADD
 
 ## Intro
 
