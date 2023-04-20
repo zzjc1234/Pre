@@ -25,7 +25,7 @@ The poems in the film are so beautiful. But to quote Keating, "We don't read and
 
 ## Thesis
 
-Dead Poets Society is a movie worth watching because it possesses themes of inspirational and transformative power.
+Dead Poets Society is a movie worth watching because it has themes of inspirational and transformative power.
 
 ## Theory
 
@@ -35,16 +35,16 @@ Dead Poets Society also reminds us that our individuality and uniqueness are str
 
 ## Examples
 After watching this movie. 
-you may get rid fo inconfidence, and discover your potential.
+you may get rid of inconfidence, and discover your potential.
 you may succeed in the field that you truly love.
 you may gain the courage to kiss your favourite girl.
 
 ## Conclusion
 
-In conclusion, Dead Poets Society is a film that will leave you feeling empowered, and motivated to live life on your own terms. It encourages us to celebrate our individuality, embrace our passions, and find the courage to pursue our dreams.
+Dead Poets Society is a film that will leave you feeling empowered, and motivated to live life on your own terms. It encourages us to celebrate our individuality, embrace our passions, and find the courage to pursue our dreams.
 
 # Conclusion
 
-Dead Poets Society is a great movie worth watching because it reinvents the genre, it has wonderful poems and inspiring themes. Poetry can make people become soft as grass, delicate as roses, tender as water. It can also make people sharp and edgy like an arrow or steady and resolute like a big tree.
+In conclusion, Dead Poets Society is a great movie worth watching because it reinvents the genre, it has wonderful poems and inspiring themes. Poetry can make people become soft as grass, delicate as roses, tender as water. It can also make people sharp and edgy like an arrow or steady and resolute like a big tree.
 
 *** So don't hesitate, let's follow in the footsteps of Mr. Keating,  to enter the world of poetry and embrace a fearless, brilliant youth. ***
