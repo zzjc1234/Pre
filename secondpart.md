@@ -25,13 +25,13 @@ The poems in the film are so beautiful. But to quote Keating, "We don't read and
 
 ## Thesis
 
-Dead Poets Society is a movie worth watching because it possesses themes of inspirational and transformative power, meaningful and thought-provoking.
+Dead Poets Society is a movie worth watching because it possesses themes of inspirational and transformative power.
 
 ## Theory
 
-Ladies, and gentlemen, are you tired of feeling like you have to fit in the society and meet the expectations of others? In today's world, we are burdened with societal pressures and expectations that can make it difficult to stay true to ourselves. Thoreau said, "Most men lead lives of quiet desperation." We don't wanner live in a cage, we want to break out. Watch Dead Poets Society, which can help you embark on an unforgettable journey of self-discovery, inspiration and empowerment.
+Ladies, and gentlemen, are you tired that you have to fit in the society and meet the expectations of others? In today's world, we are burdened with social pressures and expectations that can make it difficult to stay true to ourselves. Thoreau said, "Most men lead lives of quiet desperation." We don't wanner live in a cage, we want to break out. Watch Dead Poets Society, which can help you embark on a journey of self-discovery and inspiration.
 
-Dead Poets Society reminds us that our individuality and uniqueness are strengths to be celebrated, not weaknesses to be suppressed. "Two roads diverged in a wood, and I, took the one less travelled by." Go your own way, lead your own life.
+Dead Poets Society also reminds us that our individuality and uniqueness are strengths to be celebrated, not weaknesses to be suppressed. "Two roads diverged in a wood, and I, took the one less travelled by." Go your own way, lead your own life.
 
 ## Examples
 After watching this movie. 
@@ -41,7 +41,7 @@ you may gain the courage to kiss your favourite girl.
 
 ## Conclusion
 
-In conclusion, Dead Poets Society is a film that will leave you feeling inspired, empowered, and motivated to live life on your own terms. It encourages us to celebrate our individuality, embrace our passions, and find the courage to pursue our dreams.
+In conclusion, Dead Poets Society is a film that will leave you feeling empowered, and motivated to live life on your own terms. It encourages us to celebrate our individuality, embrace our passions, and find the courage to pursue our dreams.
 
 # Conclusion
 
