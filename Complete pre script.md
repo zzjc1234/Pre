@@ -35,15 +35,15 @@ This file includes the script for the presentation
   1. Joke:  
     **Zhouzhao**: This is a picture of a classroom 5 minutes before the class begin. Hantian, have you ever experienced this kind of classroom.  
     **Hantian**: Yes, everyone sit in the classroom while their minds wandering outside. Every students bent their heads, staring at the screen while the lecturer stands on the platform, reading ppt which is full of cliche, propaganda and useless information.  
-    **Zhouzhao**: Oh, the students in **Dead Poet Society** seems to similar comment on this kind of class. Let's see what they say.
+    **Zhouzhao**: Oh, the students in **Dead Poets Society** seem to have similar comment on this kind of class. Let's see what they say.
 
   2. Transition:  
-    **Zhouzhao**: However, you may see this kind of classroom (show the pictures eg. students stand on the desk, walk strangely) in the Mr Keating's classroom.  
+    **Zhouzhao**: However, you may see a totally different view in Mr Keating's classroom (show the pictures eg. students stand on the desk, walk strangely).  
     **Hantian**: It seems really fun. I like this kind of classroom.
 
 - Thesis and Essay Map
 
-  Today, we are gonna introduce you *Dead Poet Society* -- a master piece in education plot. We strongly recommend you to watch this film becuase its reinvention to the traditional education plot, good poems and inspirational themes
+  Today, we are gonna introduce you *Dead Poets Society* -- a master piece in education plot. We strongly recommend you to watch this film becuase its reinvention to the traditional education plot, good poems and inspirational themes
 
 ---
 
@@ -51,17 +51,17 @@ This file includes the script for the presentation
 
 - Minor Claim
 
-  *Dead Poet Society* is a master piece becuase it subverts the traditional education plot.
+  *Dead Poets Society* is a master piece becuase it subverts the traditional education plot.
 
 - Argument
 
-  1. *Dead Poet Society* has a totally different goal comparing to the traditional education plot. In traditional education plot, for example, *Detachment*, *Good Will Hunting* the protagonist usually faces students who have terrible manner, suffer from their origin famliy's conflict or have physical and mental problems and the protagonist's goal is to pull students back to the normal track. However, in the *Dead Poet Society* the students are 100% good and competent in study and most of them come from wealthy and educated famliy. From the angle of general public, they are absolutely good students and loyal sons and there is nothing to do with them. However, Mr Keating is totally different from the traditional protagonist. His goal is to make students become free thinkers and release their inner passion. He believes that "Human race is filled with passion." The subjects like "medicine, law, business, engineering are noble pursuits and necessary to sustain life.". "But poetry, beauty, romance, love are what we live alive for." He asks his students to do something totally against the tradition. For example, wiping out the lengthy introduction about how to judge a poem just academically without savouring the words and language. He taught them "Gather ye rosebuds while ye may / Old time is still a-flyig / And this same flower that smiles today, tommorow will be dying." "Now in my class, you will learn to think for yourselves again." This kind of goal is totally unthinkable in the traditional education plot.
+  1. *Dead Poets Society* has a totally different goal comparing to the traditional education plot. In traditional education plot, for example, *Detachment*, *Good Will Hunting* the protagonist usually faces students who have terrible manner, suffer from their origin famliy's conflict or have physical and mental problems and the protagonist's goal is to pull students back to the normal track. However, in the *Dead Poets Society* the students are 100% good and competent in study and most of them come from wealthy and educated famliy. From the angle of general public, they are absolutely good students and loyal sons and there is nothing to do with them. However, Mr Keating is totally different from the traditional protagonist. His goal is to make students become free thinkers and release their inner passion. He believes that "Human race is filled with passion." The subjects like "medicine, law, business, engineering are noble pursuits and necessary to sustain life.". "But poetry, beauty, romance, love are what we live alive for." He asks his students to do something totally against the tradition. For example, wiping out the lengthy introduction about how to judge a poem just academically without savouring the words and language. He taught them "Gather ye rosebuds while ye may / Old time is still a-flying / And this same flower that smiles today, tommorow will be dying." "In my class, you will learn to think for yourselves." This kind of goal is totally unthinkable in the traditional education plot.
 
-  2. ( ***Acting*** )Mr Keating also has a different relationship with students. Unlike in the traditional education plot, in which protagonist usually plays a role of teacher or a thearapist, Mr Keating always try to treat the students as friends. We can see the scene like students hold him up to celebrate after a football match or **( Start to act )** "Mr Keating" pretend to ignore the students and walk ahead when his students call him Mr Keating. When his students call him "Oh captain, my captain." He turns around quickly and replies "Gentleman."
+  2. ( ***Acting*** )Mr Keating also has a different relationship with students. Unlike in the traditional education plot, in which protagonist usually plays a role of a teacher or a thearapist, Mr Keating always tries to treat the students as friends. We can see the scene like students hold him up to celebrate after a football match or **( Start to act )** "Mr Keating" pretend to ignore the students and walk ahead when his students call him Mr Keating. When his students call him "Oh captain, my captain." He turns around quickly and replies "Gentleman."
 
 - Conclusion
 
-  To sum up, the *Dead Poet Societ* subverts the traditional education plot with different type of conflict and relationship between teacher and students.
+  To sum up, the *Dead Poets Societ* subverts the traditional education plot with different type of goal and relationship between teacher and students.
   
 ## Part2 -- Engaging Background Music
 
@@ -113,5 +113,5 @@ Dead Poets Society is a film that will leave you feeling inspired, empowered, an
 
 ## Conclusion
 
-In conclusion, Dead Poet Society is a film that stands the test of time due to its excellent themes and soundtrack. The film explores themes of individualism, self-discovery, and the importance of education, which are just as relevant today as they were when the film was released in 1989. It is clear that the filmmakers ensure that every aspect of the film was crafted with care and attention to detail. Dead Poet Society is a movie that inspires and challenges us, encouraging us to think critically about our own lives and the world around us. It is a must-watch for anyone who appreciates a well-crafted story that speaks to the human experience.
+In conclusion, Dead Poets Society is a film that stands the test of time due to its excellent themes and soundtrack. The film explores themes of individualism, self-discovery, and the importance of education, which are just as relevant today as they were when the film was released in 1989. It is clear that the filmmakers ensure that every aspect of the film was crafted with care and attention to detail. Dead Poets Society is a movie that inspires and challenges us, encouraging us to think critically about our own lives and the world around us. It is a must-watch for anyone who appreciates a well-crafted story that speaks to the human experience.
 
