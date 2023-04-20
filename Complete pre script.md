@@ -33,8 +33,8 @@ This file includes the script for the presentation
 - Hook
 
   1. Joke:  
-    **Zhouzhao**: This is a picture of a classroom 5 minutes before the class begin. Hantian, have you ever experienced this kind of classroom.  
-    **Hantian**: Yes, everyone sit in the classroom while their minds wandering outside. Every students bent their heads, staring at the screen while the lecturer stands on the platform, reading ppt which is full of cliche, propaganda and useless information.  
+    **Zhouzhao**: This is a picture of a classroom just 5 minutes before the class begin. Have you ever experienced this kind of classroom. Any volunteer?  
+    **Volunteer**: Yes, everyone sit in the classroom while their minds wandering outside. Every students bent their heads, staring at the screen while the lecturer stands on the platform, reading ppt which is full of cliche, propaganda and useless information.  
     **Zhouzhao**: Oh, the students in **Dead Poets Society** seem to have similar comment on this kind of class. Let's see what they say.
 
   2. Transition:  
