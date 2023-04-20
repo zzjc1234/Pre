@@ -12,7 +12,8 @@ From the title of the film, we can see that poetry is the soul of this movie. Le
 
 ## poem2
 
-Wandering how to pick up the lovely girl? Learn this: "Shall I compare thee to a summer's day? Thou art more lovely and more temperate"你的长夏永不凋谢 "She walks in beauty, like the night. Of cloudless climes and starry skies” 像静夜万里无云，繁星满天。 Try them some time bro. Look into the eye of your girlfriend or the girl you like, recite such lines tenderly, how can they reject?
+Wandering how to pick up the lovely girl? Learn this: "Shall I compare thee to a summer's day? Thou art more lovely and more temperate"你的长夏永不凋谢 
+And see this one:"She walks in beauty, like the night. Of cloudless climes and starry skies” 像静夜万里无云，繁星满天。 Try them some time bro. Look into the eye of your girlfriend or the girl you like, recite such lines tenderly, how can they reject?
 
 ## Conclusion
 
